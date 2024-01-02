@@ -3,7 +3,7 @@ import { resolve } from "path";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/RosaChic/",
+  base: "/Site-Rosa-Chic",
   plugins: [],
   resolve: {
 
