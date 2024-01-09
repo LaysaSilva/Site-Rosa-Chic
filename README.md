@@ -9,13 +9,17 @@ controle de itens do carrinho e histórico de compras em tempo real.
 
 ## Imagem do Preenchimento de Dados Pessoais para Finalização da Compra:
 <p>
-<img width="945" alt="PreenchimentodeDados" src="https://github.com/LaysaSilva/Site-Rosa-Chic/assets/141364310/35a85dcb-786b-4f3c-9747-41befbd53028"></p>
+<img width="800" alt="PreenchimentodeDados" src="https://github.com/LaysaSilva/Site-Rosa-Chic/assets/141364310/35a85dcb-786b-4f3c-9747-41befbd53028"></p>
 
 <br>
 
 ## Histórico de Compras: 
 
-<img width="945" alt="HistoricodeCompras" src="https://github.com/LaysaSilva/Site-Rosa-Chic/assets/141364310/ec0a79c2-174a-4bc7-8940-1bb8f0498c73">
+<img width="800" alt="HistoricodeCompras" src="https://github.com/LaysaSilva/Site-Rosa-Chic/assets/141364310/ec0a79c2-174a-4bc7-8940-1bb8f0498c73">
 
+### Observações:
+
+- O site <strong>Rosa Chic</strong> não armazena os dados preenchidos no campo de Dados Pessoais antes da Finalização da Compra.
+- As imagens utilizadas nos cards do site foram retiradas do site "Shein" apenas para fins estéticos, sem fins comerciais.
 
 
